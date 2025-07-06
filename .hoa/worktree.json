@@ -1,0 +1,147 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765612,
+    "hash": "44938d9df186966dede4e7a8600e59350205a4e1"
+  },
+  ".hoa/worktree.json": {
+    "size": 4274,
+    "time": 1751764230,
+    "hash": "ca5fd07bff307c4fd90b0052b8b8c139a408e7d3"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086020,
+    "hash": "b3d86e00121d558df365b47618c004be70d9bb38"
+  },
+  "README.md": {
+    "size": 4713,
+    "time": 1738460638,
+    "hash": "07ff1cd6d91ae7f00b7991bf51983105bb107162"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737538799,
+    "hash": "48be2dafcd83f1de2783fc60dd7312b3f2fdf0f3"
+  },
+  "assignments/理力作业存档（22级 psp）.pdf": {
+    "size": 4607699,
+    "time": 1720874137,
+    "hash": "59e3c1b8836b4d00d2c67a6fabf85d7cf75db9ae"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737538799,
+    "hash": "48be2dafcd83f1de2783fc60dd7312b3f2fdf0f3"
+  },
+  "exams/2021春理论力学期末试题C卷.pdf": {
+    "size": 630178,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2023春-理论力学II.pdf": {
+    "size": 484223,
+    "time": 1701183473,
+    "hash": "35f5ad50e9b4b0ec60bb06de9ff329ed0abe1d50"
+  },
+  "exams/2023春-理论力学II试题答案V1.2.pdf": {
+    "size": 464783,
+    "time": 1719607522,
+    "hash": "ba3c6cf6892d781d2733f69c797fe623ad17bd1e"
+  },
+  "exams/2023理力补考模拟答案.pdf": {
+    "size": 6962991,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2023理力补考模拟题.pdf": {
+    "size": 530055,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2023理论力学期末复习测试V1.0.pdf": {
+    "size": 468568,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2023理论力学期末复习测试参考答案.pdf": {
+    "size": 8674356,
+    "time": 1720874137,
+    "hash": "59e3c1b8836b4d00d2c67a6fabf85d7cf75db9ae"
+  },
+  "exams/2024春理论力学II期末参考答案（完整版）.pdf": {
+    "size": 7676895,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2024春理论力学II期末考试题（回忆版）.pdf": {
+    "size": 268773,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/2024秋理论力学期中题目+答案.pdf": {
+    "size": 784284,
+    "time": 1733143963,
+    "hash": "171e7c02b090b5009807939f191fd5cb1482eac8"
+  },
+  "exams/2024秋理论力学期末回忆版-无答案.pdf": {
+    "size": 156882,
+    "time": 1738460638,
+    "hash": "07ff1cd6d91ae7f00b7991bf51983105bb107162"
+  },
+  "exams/[纸张记忆]哈工大理力期中.pdf": {
+    "size": 37439974,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/[纸张记忆]理论力学期末19-08.pdf": {
+    "size": 61051457,
+    "time": 1701183473,
+    "hash": "35f5ad50e9b4b0ec60bb06de9ff329ed0abe1d50"
+  },
+  "exams/哈工大理论力学2009-2016期末试题.pdf": {
+    "size": 4500105,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/哈工大理论力学期末2008-2020[网盘计划].pdf": {
+    "size": 22468043,
+    "time": 1720757120,
+    "hash": "38f12a771ece96f5ba8edbc97fee7f2161b95512"
+  },
+  "exams/静力学测试题V1.1.pdf": {
+    "size": 541098,
+    "time": 1720874137,
+    "hash": "59e3c1b8836b4d00d2c67a6fabf85d7cf75db9ae"
+  },
+  "exams/静力学测试题参考答案.pdf": {
+    "size": 3374187,
+    "time": 1720874137,
+    "hash": "59e3c1b8836b4d00d2c67a6fabf85d7cf75db9ae"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737538799,
+    "hash": "48be2dafcd83f1de2783fc60dd7312b3f2fdf0f3"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737538799,
+    "hash": "48be2dafcd83f1de2783fc60dd7312b3f2fdf0f3"
+  },
+  "notes/理论力学笔记-psp.pdf": {
+    "size": 28130625,
+    "time": 1720874137,
+    "hash": "59e3c1b8836b4d00d2c67a6fabf85d7cf75db9ae"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737538799,
+    "hash": "48be2dafcd83f1de2783fc60dd7312b3f2fdf0f3"
+  },
+  "tag.txt": {
+    "size": 68,
+    "time": 1734931462,
+    "hash": "81f76346589131224cfd1e82dc36b0d47f8ce9aa"
+  }
+}
