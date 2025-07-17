@@ -1,6 +1,7 @@
 # EMEC1002 - 理论力学II
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（23级及之前）-red)
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（24级）-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（2024）-gold)
