@@ -1,7 +1,7 @@
 # EMEC1002 - 理论力学II
 
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（23级及之前）-red)
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（24级）-green)
+![Static Badge](https://img.shields.io/badge/考查课（24级）-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（2024）-gold)
@@ -10,7 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/期中考试-20%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
-请注意，实验课【工程力学实验（理力）】是独立设课（0.5 学分），不计入这门课的总成绩。
 
 ## 授课教师
 
@@ -22,6 +21,7 @@
   - 分别负责静力学&运动学（至速度瞬心法）/ 运动学剩余部分&动力学。
   - 授课风格：干货满满，思路清晰，很赞。
   - 听课建议：认真听讲。课上要跟上，课下动笔再算一遍。
+  - 2025 秋，牛牧青老师将独立负责整门课程，而潘泽华老师将与凌超老师合作。
 > 文 / [Oliver Wu](https://github.com/OliverWu515)
 - 凡友华
   - 授课风格：PPT 和例题讲解，有板书
