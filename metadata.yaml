@@ -1,0 +1,152 @@
+ID: "EMEC1002"
+SimilarID: []
+Name: "理论力学II"
+CourseProperty:
+  - Major:
+      - Year: "2024_2025"
+        Name: ["工科试验班（机器人与智能装备）", "工科试验班（智能土木类）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时考勤"
+        Percentage: "10"
+      - Name: "作业&小测"
+        Percentage: "20"
+      - Name: "期中考试"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2025_2026"
+        Name: ["工科试验班（机器人与智能装备）", "工科试验班（空天科技）", "工科试验班（智慧能源与低空动力）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时考勤"
+        Percentage: "10"
+      - Name: "作业&小测"
+        Percentage: "20"
+      - Name: "期中考试"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2020_2021"
+        Name: ["自动化", "土木"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition: []
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2021_2022"
+        Name: ["土木", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition: []
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2022_2023"
+        Name: ["自动化", "土木"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition: []
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2023_2024"
+        Name: ["自动化", "工科试验班（智能土木类）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EMEC1002"
+    CourseName: "理论力学II"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition: []
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
