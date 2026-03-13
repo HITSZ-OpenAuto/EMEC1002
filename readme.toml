@@ -1,23 +1,24 @@
 course_name = "理论力学II"
-repo_type = "normal"
 course_code = "EMEC1002"
-
+repo_type = "normal"
 description = "2024 秋，自动化专业并没有理论力学，只有机器人在学。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "梁旭东"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：PPT 和例题讲解。例题中有有往年的考试题。
 听课建议：讲解到位，值得一听。
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "潘泽华/牛牧青"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 分别负责静力学&运动学（至速度瞬心法）/ 运动学剩余部分&动力学。
 授课风格：干货满满，思路清晰，很赞。
@@ -26,16 +27,15 @@ content = """
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "凡友华"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：PPT 和例题讲解，有板书。听起来很困。
 几乎每节课都考勤。考勤形式是，PPT 上给出题目，让大家自备纸张作答，下课时上交。但是 2024 秋并没有限制上交的时间为下课，也即允许补交。
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "" }
-
 
 [[sections]]
 title = "在线资源"
