@@ -1,3 +1,0 @@
-category: 限选
-semester: 第二学年秋季
-name: 理论力学Ⅱ
