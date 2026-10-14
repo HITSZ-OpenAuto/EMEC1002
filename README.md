@@ -1,12 +1,5 @@
 # EMEC1002 - 理论力学II
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时考勤10%](https://img.shields.io/badge/平时考勤-10%25-wheat)
-![作业&小测20%](https://img.shields.io/badge/作业&小测-20%25-wheat)
-![期中考试20%](https://img.shields.io/badge/期中考试-20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 2024 秋，自动化专业并没有理论力学，只有机器人在学。
 
